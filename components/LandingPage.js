@@ -1,12 +1,10 @@
 import {
   Button,
-  color,
   Flex,
   Heading,
   Input,
   Text,
   FormControl,
-  FormHelperText,
 } from "@chakra-ui/react";
 import { colors } from "./Colors";
 import Link from "next/link";
