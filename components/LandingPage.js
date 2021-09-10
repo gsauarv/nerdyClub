@@ -1,11 +1,4 @@
-import {
-  Button,
-  Flex,
-  Heading,
-  Input,
-  Text,
-  FormControl,
-} from "@chakra-ui/react";
+import { Button, Flex, Heading, Input, Text } from "@chakra-ui/react";
 import { colors } from "./Colors";
 import Link from "next/link";
 import Image from "next/image";
